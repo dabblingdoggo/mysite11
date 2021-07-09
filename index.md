@@ -55,7 +55,7 @@ $$
         \end{bmatrix}
 $$
 
-(optional: diable numbering)
+(optional: disable numbering)
 
 ## How to insert Julia code (with outputs!)
 
