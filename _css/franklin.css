@@ -1,16 +1,16 @@
 /* table rules */
 
-/* th {
+th {
   background-color: navy;
   color: white;
   font-weight: bold;
-} */
+}
 
-th {
+/* th {
   background-color: navy !important;
   color: white;
   font-weight: bold;
-}
+} */
 
 tr:nth-child(odd) {
   background: lightgray;
